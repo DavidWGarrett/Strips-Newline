@@ -1,7 +1,7 @@
 # Deals with the issues copying text from a PDF file and the copied text
 # having newlines at the end of each textline.
 # Strips all newlines and fixes other typos
-# Has a subject variable that can be placed in front of the copied text
+# Has a subject variable that can be placed in front of the copied text t
 
 import subprocess
 import win32clipboard
